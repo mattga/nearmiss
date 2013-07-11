@@ -16,4 +16,5 @@ Why?
 
 Future Plans
 ============
-Update of the UI for full iPad compatibility.
+* Update of the UI for full iPad compatibility
+* Custom UI with NearMiss color scheme
