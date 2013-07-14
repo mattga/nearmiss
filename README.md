@@ -1,5 +1,5 @@
-NearMiss4MedStudents
-====================
+NearMiss for Med students
+=========================
 iOS App for conveniently and efficiently submitting "NearMiss" reports for UCI Medical Students. Project was
 started during MedAppJam 2012, a 10 day iOS competition at University of California, Irvine.
 
